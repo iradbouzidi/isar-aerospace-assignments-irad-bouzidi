@@ -1,6 +1,7 @@
-# React Application README
+# Isar Aerospace Assignments
 
-This repository contains a React application that comprises two main components: AssignmentA and AssignmentB.
+This repository contains the Isar Aerospace Assignments that comprises two main components: AssignmentA and AssignmentB.
+Assignment C is Attached in a PDF file.
 
 ## Getting Started
 
